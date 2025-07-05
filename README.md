@@ -1,4 +1,4 @@
 # gauri-demo
 This is my first git repository
 <br>
-Author- Gauri Ghadge
+Author- Gauri Aote
